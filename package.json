@@ -1,0 +1,16 @@
+{
+  "name": "final_project",
+  "version": "1.0.0",
+  "description": "final_web_academy",
+  "main": "script.js",
+  "scripts": {
+    "scss": "sass ./style.scss dist/style.css"
+  },
+  "author": "Denys.B",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "sass": "^1.26.11",
+    "scss": "^0.2.4"
+  }
+}
